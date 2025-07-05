@@ -1,4 +1,4 @@
-#fundamentals
+#fundamentals #flashcards/fundamentals
 
 The [hypertext transfer protocol](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol) is a stateless protocol which is designed to transfer information between networked devices.
 
@@ -18,3 +18,7 @@ The Response contains:
 - Optional Response Body 
 
 Data is transmitted unencrypted. Encryption can be added with [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security) -> HTTP/S
+
+---
+## Questions
+Explain HTTP::The [hypertext transfer protocol](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol) is a stateless protocol which is designed to transfer information between networked devices.
