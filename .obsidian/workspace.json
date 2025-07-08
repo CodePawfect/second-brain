@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scaleability.md",
+                "file": "Internet & fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaleability"
+              "title": "Internet & fundamentals"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "07e7dcc929c076eb",
   "lastOpenFiles": [
-    "TLS.md",
+    "idea notes.md",
     "Scaleability.md",
+    "TLS.md",
     "Internet & fundamentals.md",
     "Go - compile & run.md",
     "Compiler vs Interpreter.md",
@@ -224,7 +225,6 @@
     "Stack and Heap Memory.md",
     "Linux.md",
     "Excalidraw/Drawing 2025-07-04 20.52.16.excalidraw.md",
-    "idea notes.md",
     "Excalidraw",
     "images/compiler_interpreter.png",
     "Untitled",
